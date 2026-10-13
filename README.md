@@ -8,7 +8,6 @@ Final-year BSc Information Technology student at the **University of Ghana**, ba
 - Frontend development and UI/UX design with React, Vite, Tailwind CSS and Figma
 - Role-based dashboards for Clients, Taskers and Administrators
 - Quality assurance: testing, defect reporting and fix verification
-- Preparing for backend API integration, authentication and Mobile Money payments
 
 ## 🛠️ Tech & tools
 
